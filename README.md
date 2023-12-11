@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋,
 
-My name is Daniel and I'm a software engineer from Israel. I've been doing backend development for the past 5+ years, before discovering creative coding and generative art. After that I decided to switch to graphics programming. I've been passionate about video games and game development since early age, and I even started my programming journey with learning how to develop games. 
+I'm Daniel, a software engineer hailing from Israel. I've been immersed in backend development for over 5 years. Recently, I stumbled upon the world of creative coding and generative art, prompting me to make a shift to graphics programming. Over the last 2 years, I've been diving deep into this fascinating field.
 
+My passion for video games and game development has been with me since a young age, and my programming journey actually kicked off with learning how to develop games. What I find most fulfilling about programming is its creative aspect, bringing visuals and aesthetically pleasing creations to life.
+
+Here are my latest projects:
+
+- [Generative art sketches](https://github.com/monkeyroar/sketches) written in TypeScript, utilizing Pixi.js, Three.js, and pure WebGL APIs.
+- [Rustracer](https://github.com/monkeyroar/rustracer) - a simple implementation of a raytracer in Rust.
