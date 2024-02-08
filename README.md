@@ -7,4 +7,4 @@ My passion for video games and game development has been with me since a young a
 Here are my latest projects:
 
 - [Generative art sketches](https://github.com/monkeyroar/sketches) written in TypeScript, utilizing Pixi.js, Three.js, and pure WebGL APIs.
-- [Rustracer](https://github.com/monkeyroar/rustracer) - a simple implementation of a raytracer in Rust.
+- [My personal website](https://github.com/codedpalette/codedpalette.github.io) written in Svelte and TypeScript, showcasing my generative artworks.
